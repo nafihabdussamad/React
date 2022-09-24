@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 var name1 = "Nafih";
-var name2 = "Nafih";
+var name2 = "Abdussamad";
 ReactDOM.render(
   <div>
     <h1 className="head">My fav foods</h1>
